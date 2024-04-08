@@ -3,7 +3,10 @@
 
 # About
 This is a simple bong script that is targetable for any bong on the map you can change/add/remove your props in the Config.lua
+
 You can make it where they have to pay to smoke the bong or they dont in the Config.lua
+
+You will get a high effect from smoking the Bong
 
 
 # Dependency
