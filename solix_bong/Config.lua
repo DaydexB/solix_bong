@@ -7,6 +7,6 @@ Config.PayToSmoke = true -- If true players will have to pay Config.PriceToSmoke
 
 Config.PriceToSmoke = 300 -- $300 for this to work Config.PayToSmoke has to be true
 
-Config.HowLongToBeHighFor = 60000 -- this would be 10 seconds
+Config.HowLongToBeHighFor = 10000 -- this would be 10 seconds
 
 Config.AccountToRemoveFrom = 'money' -- 'change to 'bank' if you want to take money from the bank'
