@@ -19,4 +19,4 @@ These will likely get done with in the next few weeks i made this very fast so i
 ox_target: https://github.com/overextended/ox_target/releases/tag/v1.14.0
 
 
-ESX Legacy: https://github.com/overextended/ox_target/releases/tag/v1.14.0
+ESX Legacy: [https://github.com/overextended/ox_target/releases/tag/v1.14.0](https://github.com/esx-framework/esx_core/releases/tag/1.10.5)
