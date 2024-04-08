@@ -8,4 +8,6 @@ You can make it where they have to pay to smoke the bong or they dont in the Con
 
 # Dependency
 ox_target: https://github.com/overextended/ox_target/releases/tag/v1.14.0
+
+
 ESX Legacy: https://github.com/overextended/ox_target/releases/tag/v1.14.0
